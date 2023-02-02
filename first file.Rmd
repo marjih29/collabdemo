@@ -6,7 +6,7 @@ output: html_document
 ---
 
 Edited by Matthew
-Edited by Mar
+Edited by Marjorie
 New Change
 
 ```{r setup, include=FALSE}
